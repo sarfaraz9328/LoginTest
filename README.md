@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 Installation Process
 
-- First intall node "npm intall"
+- First intall node "npm install"
 - To run the project "npm run dev"
